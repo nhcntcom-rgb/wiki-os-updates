@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0-dot.10",
-  "released_at": "2026-10-06",
+  "version": "1.0.0-dot.12",
+  "date": "2026-10-06",
   "level": "optional",
-  "notes_url": "",
-  "min_direct_upgrade": ""
+  "notes_url": "https://github.com/nhcntcom-rgb/wiki_os/releases/tag/v1.0.0-dot.12",
+  "min_direct": ""
 }
